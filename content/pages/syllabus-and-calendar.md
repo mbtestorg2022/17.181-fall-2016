@@ -59,21 +59,195 @@ For details on the midterm and final exams, see the [Exams]({{< baseurl >}}/page
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I Content & Context**{{< /td-colspan >}} |||
-| 1 | Introduction-Debates, Definitions & Dilemmas | &nbsp; |
-| 2 | Evolving Concepts: Growth vs. Sustainability | &nbsp; |
-| 3 | Sustainability as a "Knowledge Domain" | &nbsp; |
-| 4 | Cyberspace & Sustainability | &nbsp; |
-| {{< td-colspan 3 >}}**Part II Actors, Processes & Institutions**{{< /td-colspan >}} |||
-| 5 | Critical Drivers-Social Mechanisms & Cognitive Factors | GSSD assignment due |
-| 6 | Economic Performance-Production & Consumption | &nbsp; |
-| 7 | Technology, Firms Markets-Corporate Perspectives | Midterm posted |
-| 8 | Climate Change & Sustainable Development | Midterm due |
-| 9 | From Sustainability "Problems" to "Solution" Strategies | &nbsp; |
-| {{< td-colspan 3 >}}**Part III Strategic Issues**{{< /td-colspan >}} |||
-| 10 | New International Institutional Contexts | &nbsp; |
-| 11 | International Responses to Sustainability Dilemmas | &nbsp; |
-| 12 | Global Accord: Next Round | Final exam posted |
-| 13 | Transformation & Change: Alternative Futures | Final exam due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I Content & Context**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction-Debates, Definitions & Dilemmas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Evolving Concepts: Growth vs. Sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Sustainability as a "Knowledge Domain"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cyberspace & Sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II Actors, Processes & Institutions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Critical Drivers-Social Mechanisms & Cognitive Factors
+{{< tdclose >}}
+{{< tdopen >}}
+GSSD assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Performance-Production & Consumption
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Technology, Firms Markets-Corporate Perspectives
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm posted
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Change & Sustainable Development
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+From Sustainability "Problems" to "Solution" Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III Strategic Issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+New International Institutional Contexts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+International Responses to Sustainability Dilemmas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Global Accord: Next Round
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam posted
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Transformation & Change: Alternative Futures
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

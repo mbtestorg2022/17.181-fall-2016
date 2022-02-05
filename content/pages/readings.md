@@ -32,21 +32,487 @@ uid: e60aae92-0fbd-0a38-f822-103a375a7806
 
 \[TE\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262017473) Tester, Jefferson W., Elisabeth M. Drake, et al, eds. _Sustainable Energy: Choosing Among Options_. 2nd edition. MIT Press, 2012. ISBN: 9780262017473. \[Preview with [Google Books](https://books.google.co.in/books?id=pd7xCwAAQBAJ&printsec=frontcover&dq=Sustainable+Energy:+Choosing+Among+Options&hl=en&sa=X&ved=0ahUKEwjLt6aGoZLUAhUKtY8KHRiLB2gQuwUILDAA#v=onepage&q&f=false)\]
 
-| WEEK # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1 Content & Context**{{< /td-colspan >}} |||
-| 1 | Introduction-Debates, Definitions & Dilemmas | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[S\] Hardin, Garrett. Chapter 2: The Tragedy of the Commons. {{< br >}}{{< br >}} \[ST\] Solow, Robert M. Chapter 28: Sustainability: An Economist's Perspective. {{< br >}}{{< br >}} Solow, Robert M. "[Richard T. Ely Lecture: The Economics of Resources or the Resources of Economics](http://www.jstor.org/stable/1816009)." _American Economic Review_ 64, no. 2 (1974): 1–14. (Papers and Proceedings of the Eighty-sixth Annual Meeting of the American Economic Association) {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} Goodland, Robert, and George Ledec. "[Neoclassical Economics and Principles of Sustainable Development](https://doi.org/10.1016/0304-3800(87)90043-3)." _Ecological Modeling_ 38 (1987): 19–46. {{< br >}}{{< br >}} Holdren, John P., Gretchen C. Daily, et al. "The Meaning of Sustainability: Biogeophysical Aspects." Chapter 1 in _Defining and Measuring Sustainability: The Biogeophysical Foundations_. Edited by Mohan Munasinghe and Walter Shearer. World Bank, 1995. ISBN: 9780821331347. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[T\] Chapter 1: Introduction to Collapse. {{< br >}}{{< br >}}  |
-| 2 | Evolving Concepts: Growth vs. Sustainability | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[B\] Reboratti, Carlos E. Chapter 11: Territory, Scale and Sustainable Development. {{< br >}}{{< br >}} \[C\] Choucri, Nazli. "Introduction: Theoretical, Empirical, and Policy Perspectives." {{< br >}}{{< br >}} Pezzey, John C. V., and Michael A. Toman. "Progress and Problems in the Economics of Sustainability." Chapter 4 in _The International Yearbook of Environmental and Resource Economics 2002 / 2003 A Survey of Current Issues (New Horizons in Environmental Economics)_. Edited by Tom Tietenberg and Henk Folmer. Edward Elgar Publications, 2003. ISBN: 9781843762133. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[CO\] Hardin, Garrett. Chapter 4: Paramount Positions in Ecological Economics. {{< br >}}{{< br >}} \[E\] Chapter 8: Tales of Increasing Returns: Leaks, Matches, and Traps. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[CH\] Choucri, Nazli. Chapter 1: Mapping Sustainability: Logic and Framework. {{< br >}}{{< br >}} \[T\] Chapter 2: The Nature of Complex Societies. {{< br >}}{{< br >}}  |
-| 3 | Sustainability as a "Knowledge Domain" | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[A\] Chapter 3: Sustainable Development. {{< br >}}{{< br >}} \[CO\] Christensen, Paul. Chapter 6: Driving Forces, Increasing Returns and Ecological Sustainability. {{< br >}}{{< br >}} \[ST\] Simpson, R. David. Chapter 25: Economic Analysis and Ecosystems: Some Concepts and Issues. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. "Cyber Content: Leveraging Knowledge and Networking." Chapter 4 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690. \[Preview with [Google Books](http://books.google.com/books?id=N7iNQSj-X84C&pg=PA71=onepage)\] {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} Holling, C.S. "Sustainability: The Cross-Scale Dimension." Chapter 4 in _Defining and Measuring Sustainability: The Biogeophysical Foundations_. Edited by Mohan Munasinghe and Walter Shearer. World Bank, 1995. ISBN: 9780821331347. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. "Lateral Pressure Theory." Chapter 2 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with [Google Books](http://books.google.com/books?id=d54TsD-nx1IC&pg=PA29=onepage)\] {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[B\] Sachs, Ignacy. Chapter 2: Social Sustainability and Whole Development: Exploring the Dimensions of Sustainable Development. {{< br >}}{{< br >}} \[T\] Chapter 3: The Study of Collapse. {{< br >}}{{< br >}}  |
-| 4 | Cyberspace & Sustainability | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. "Cyberspace and Sustainability: Convergence on the Global Agenda." Chapter 9 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690. {{< br >}}{{< br >}} Drucker, Peter F. "From Capitalism to Knowledge Society." Chapter 2 in _The Knowledge Economy_. Edited by Dale Neef. Butterworth-Heinemann, 1997. ISBN: 9780750699365. {{< br >}}{{< br >}} Landes, David S. "Homo Faber, Homo Sapiens: Knowledge, Technology, Growth, and Development." Chapter 5 in _The Knowledge Economy_. Edited by Dale Neef. Butterworth-Heinemann, 1997. ISBN: 9780750699365. {{< br >}}{{< br >}} Ospina, Angelina Valeria, and Richard Heeks. "[Unveiling the Links between ICTs & Climate Change in Developing Countries: A Scoping Study](http://www.comminit.com/africa/content/unveiling-links-between-icts-climate-change-developing-countries-scoping-study)." Center for Development Informatics, Institute for Development Policy and Management, SED, 2010, pp. 1–16. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[A\] Chapter 9: Complex Systems. {{< br >}}{{< br >}} \[B\] Choucri, Nazli. Chapter 8: The Political Logic of Sustainability. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[CH\] Choucri, Nazli. Chapter 2: Global Knowledge e-Networking: Identifying e-Barriers and Introducing GSSD. {{< br >}}{{< br >}} \[T\] Chapter 4: Understanding Collapse: The Marginal Productivity of Sociopolitical Change. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part II Actors, Processes & Institutions**{{< /td-colspan >}} |||
-| 5 | Critical Drivers-Social Mechanisms & Cognitive Factors | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[E\] Chapter 11: Governments Can Kill Growth. {{< br >}}{{< br >}} \[E\] Chapter 12: Corruption and Growth. {{< br >}}{{< br >}} \[P\] Engleman, Robert, Richard P. Cincotta, et al. Chapter 2: The Future is Not What it Used to Be: World Population Trends. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[P\] Runci, Paul J., and Chester L. Cooper. Chapter 3: Reflections on an Aging Global Population. {{< br >}}{{< br >}} Barzel, Yoram. "The Property Rights Model." Chapter 1 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with [Google Books](http://books.google.com/books?id=UIfxgF4qqAwC&pg=PA3=onepage)\] {{< br >}}{{< br >}} ———. "The Old Firm and the New Organization." Chapter 5 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with [Google Books](http://books.google.com/books?id=UIfxgF4qqAwC&pg=PA65=onepage)\] {{< br >}}{{< br >}} Choucri, Nazli. "Population and the Global Environment." In _Energy and the Environment in the 21st Century_. Edited by Jefferson W. Tester. MIT Press, 1991. ISBN: 9780262200783. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[TE\] Chapter 1: Sustainable Energy: The Engine of Sustainable Development. {{< br >}}{{< br >}} \[TE\] Chapter 2: Estimation and Evaluation of Energy Resources. {{< br >}}{{< br >}} \[TE\] Chapter 6: Energy Systems and Sustainability Metrics. {{< br >}}{{< br >}}  |
-| 6 | Economic Performance-Production & Consumption | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[B\] Gowdy, John. Chapter 9: Economic Concepts of Sustainability: Relocating Economic Activity Within Society and Environment. {{< br >}}{{< br >}} \[C\] Choucri, Nazli, and Robert C. North. Chapter 3: Growth, Development, and Environmental Sustainability: Profile and Paradox. {{< br >}}{{< br >}} \[ST\] Coase, Ronald. Chapter 2: The Problem of Social Cost. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[A\] Chapter 6: Applications to Practice: Sector Initiatives. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. "Exploring Complexity: System Dynamics Analysis." Chapter 5 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with [Google Books](http://books.google.com/books?id=d54TsD-nx1IC&pg=PA127=onepage)\] {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[C\] Rothenberg, Jerome R. Chapter 9: Economic Perspectives on Time Comparisons: An Evaluation of Time Discounting. {{< br >}}{{< br >}}  |
-| 7 | Technology, Firms Markets-Corporate Perspectives | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[C\] Choucri, Nazli. Chapter 6: Multinational Corporations and the Global Environment. {{< br >}}{{< br >}} \[ST\] Reinhardt, Forest L., Robert N. Stavins, et al. Chapter 22: Corporate Social Responsibility through an Economic Lens. {{< br >}}{{< br >}} \[ST\] Portney, Paul R. Chapter 23: The (Not So) New Corporate Social Responsibility: An Empirical Perspective. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[CH\] Lim, Shung Yar. Chapter 10: The Value of Knowledge for Extended Enterprises. {{< br >}}{{< br >}} \[L\] Choucri, Nazli. Chapter 12: Corporate Strategies toward Sustainability. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[ST\] Arrow, Kenneth. J., Maureen L. Cropper, et al. Chapter 11: Is There a Role for Benefit-Cost Analysis in Environment, Health and Safety Regulation? {{< br >}}{{< br >}}  |
-| 8 | Climate Change & Sustainable Development | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[S\] Tietenberg, Tom H. Chapter 15: Economic Instruments for Environmental Regulation. {{< br >}}{{< br >}} \[ST\] Fullerton, Don, and Robert N. Stavins. Chapter 1: How Economists See the Environment. {{< br >}}{{< br >}} \[ST\] Keohane, Nathaniel O., Richard L. Revesz, et al. Chapter 32: The Choice of Regulatory Instruments in Environmental Policy. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[S\] Dasgupta, Susmita, Benoit Laplante, et al. Chapter 20: Confronting the Environmental Kuznets Curve. {{< br >}}{{< br >}} \[ST\] Palmer, Karen, Wallace E. Oates, et al. Chapter 6: Tightening Environmental Standards: The Benefit-Cost or the No-Cost Paradigm? {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[CH\] Choucri, Nazli. Chapter 20: Conclusion: Mapping Sustainability, Knowledge e-Networking, and the Value Chain, Synthesis, Insights, and Evidence. {{< br >}}{{< br >}} Carraro, Carlo. "Climate Change Policy: Models, Controversies and Strategies." Chapter 1 in _The International Yearbook of Environmental and Resource Economics 2002 / 2003 A Survey of Current Issues (New Horizons in Environmental Economics)_. Edited by Tom Tietenberg and Henk Folmer. Edward Elgar Publications, 2003. ISBN: 9781843762133. {{< br >}}{{< br >}}  |
-| 9 | From Sustainability "Problems" to "Solution" Strategies | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[A\] Chapter 13: Government Structure and Industrial Ecology Policy Formulation. {{< br >}}{{< br >}} \[C\] Rothenberg, Jerome. Chapter 11: Economic Perspectives on Time Comparisons: Alternative Approaches to Time Comparisons. {{< br >}}{{< br >}} Pearce, David. "Sustainable Development and Developing Country Economies." Chapter 3 in _Sustainable Environmental Economics and Management: Principles and Practice_. Edited by R. Kerry Turner. Belhaven Press, 1993. ISBN: 9780471947813. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[P\] Conca, Ken. Chapter 4: Global Water Prospects. {{< br >}}{{< br >}} \[P\] Cousins, Ken. Chapter 12: Twenty-Nine Days: Responding to a Finite World. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[T\] Chapter 5: Evaluation: Complexity and Marginal Returns in Collapsing Societies. {{< br >}}{{< br >}} \[T\] Chapter 6: Summary and Implications. {{< br >}}{{< br >}} See the [Global System for Sustainable Development](http://gssd.mit.edu/) site for specific 'matching' of 'problems' and 'solutions' by sector, issue, unit, level, context. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part III Strategic Issues**{{< /td-colspan >}} |||
-| 10 | New International Institutional Contexts | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[C\] Haas, Peter M., with Jan Sundgren. Chapter 12: Evolving International Environmental Law: Changing Practices of National Sovereignty. {{< br >}}{{< br >}} Metrick, Andrew, and Martin L. Weitzman. "[Conflicts and Choices in Biodiversity Preservation](http://www.jstor.org/stable/2647030)." _Journal of Economic Perspectives_ 12, no. 3 (1998): 21–34. {{< br >}}{{< br >}} Ostrom, Elinor. "A Framework for Analysis of Self-Organizing and Self-Governing CPRs." Chapter 6 in _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press, 2015. ISBN: 9781107569782. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[L\] Sands, Philippe. Chapter 5: International Law in the Field of Sustainable Development: Emerging Legal Principles. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621885) Levy, David L., and Peter J. Newell. "Introduction: The Business of Global Environmental Governance." Chapter 1 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621885) Levy, David L. "Business and the Evolution of the Climate Regime: The Dynamics of Corporate Strategies." Chapter 4 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[O\] Chapter 1: The Role of Infrastructure in Development. {{< br >}}{{< br >}} \[O\] Chapter 3: Individuals, Incentives, and Transaction Costs. {{< br >}}{{< br >}} \[O\] Chapter 5: Evaluating Institutional Performance. {{< br >}}{{< br >}} \[O\] Chapter 6: Analyzing Institutional Arrangements. {{< br >}}{{< br >}}  |
-| 11 | International Responses to Sustainability Dilemmas | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[B\] Paehlke, Robert. Chapter 13: Towards Defining, Measuring and Achieving Sustainability: Tools and Strategies for Environmental Valuation. {{< br >}}{{< br >}} \[CH\] Wickboldt, Anne-Katrin. Chapter 14: Growing Clean?: Property Rights, Economic Growth, and the Environment. {{< br >}}{{< br >}} Røpke, Inge. "[Trade, Development and Sustainability—A Critical Assessment of the 'Free Trade Dogma](https://doi.org/10.1016/0921-8009(94)90013-2)'." _Ecological Economics_ 9, no. 1 (1994): 13–22. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[ST\] Kelman, Steven. Chapter 14: Cost-Benefit Analysis: An Ethical Critique. {{< br >}}{{< br >}} Goldman, Patti A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles." (PDF - 1.4MB)](http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1902&context=wlulr) _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[ST\] Frankel, Jeffrey A. Chapter 31: The Environment and Globalization. {{< br >}}{{< br >}}  |
-| 12 | Global Accord: Next Round | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[A\] Chapter 12: Legal Issues. {{< br >}}{{< br >}} \[AS\] Chapter 3: Economic Development and Prosperity: Current Theory and Debate. {{< br >}}{{< br >}} \[AS\] Chapter 10: Regional and International Regimes to Protect Health, Safety, and the Environment. {{< br >}}{{< br >}} \[AS\] Chapter 12: Financing Development, p. 629. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[C\] Brewer, Garry D. Chapter 8: Environmental Challenges and Managerial Responses. {{< br >}}{{< br >}} Sell, Susan K. "[Revenge of the 'Nerds': Collective Action Against Intellectual Property Maximalism in the Global Information Age](https://doi.org/10.1111/misr.12021)." _International Studies Review_ 15, no. 1 (2013): 67–85. {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262042147) Dolšak, Nives, and Elinor Ostrom, eds. "The Challenges of the Commons." Chapter 1 in _The Commons in the New Millennium: Challenges and Adaptations_. MIT Press, 2003. ISBN: 9780262042147. \[Preview with [Google Books](http://books.google.com/books?id=UUdYIUTqpVsC&pg=PA3=onepage)\] {{< br >}}{{< br >}}  |
-| 13 | Transformation & Change: Alternative Futures | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} \[L\] Sand, Peter H. Chapter 11: Trusts for the Earth: New International Financial Mechanisms for Sustainable Development. {{< br >}}{{< br >}} \[ST\] Porter, Michael E., and Claas van der Linde. Chapter 5: Toward a New Conception of the Environment-Competitiveness Relationship. {{< br >}}{{< br >}} {{< h 3 >}}Related{{< /h >}} {{< br >}}{{< br >}} \[A\] Chapter 16: Is the Private Firm Compatible with a Sustainable World? {{< br >}}{{< br >}} \[P\] Chapter 5: Cohen, Marc J. "Food Policy: Underfed or Overfed?" {{< br >}}{{< br >}} {{< h 3 >}}Essential{{< /h >}} {{< br >}}{{< br >}} \[C\] Weiss, Edith Brown. Chapter 10: Intergenerational Equity: Toward an International Legal Framework. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1 Content & Context**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction-Debates, Definitions & Dilemmas
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[S\] Hardin, Garrett. Chapter 2: The Tragedy of the Commons.
+
+\[ST\] Solow, Robert M. Chapter 28: Sustainability: An Economist's Perspective.
+
+Solow, Robert M. "[Richard T. Ely Lecture: The Economics of Resources or the Resources of Economics](http://www.jstor.org/stable/1816009)." _American Economic Review_ 64, no. 2 (1974): 1–14. (Papers and Proceedings of the Eighty-sixth Annual Meeting of the American Economic Association)
+
+### Related
+
+Goodland, Robert, and George Ledec. "[Neoclassical Economics and Principles of Sustainable Development](https://doi.org/10.1016/0304-3800(87)90043-3)." _Ecological Modeling_ 38 (1987): 19–46.
+
+Holdren, John P., Gretchen C. Daily, et al. "The Meaning of Sustainability: Biogeophysical Aspects." Chapter 1 in _Defining and Measuring Sustainability: The Biogeophysical Foundations_. Edited by Mohan Munasinghe and Walter Shearer. World Bank, 1995. ISBN: 9780821331347.
+
+### Essential
+
+\[T\] Chapter 1: Introduction to Collapse.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Evolving Concepts: Growth vs. Sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[B\] Reboratti, Carlos E. Chapter 11: Territory, Scale and Sustainable Development.
+
+\[C\] Choucri, Nazli. "Introduction: Theoretical, Empirical, and Policy Perspectives."
+
+Pezzey, John C. V., and Michael A. Toman. "Progress and Problems in the Economics of Sustainability." Chapter 4 in _The International Yearbook of Environmental and Resource Economics 2002 / 2003 A Survey of Current Issues (New Horizons in Environmental Economics)_. Edited by Tom Tietenberg and Henk Folmer. Edward Elgar Publications, 2003. ISBN: 9781843762133.
+
+### Related
+
+\[CO\] Hardin, Garrett. Chapter 4: Paramount Positions in Ecological Economics.
+
+\[E\] Chapter 8: Tales of Increasing Returns: Leaks, Matches, and Traps.
+
+### Essential
+
+\[CH\] Choucri, Nazli. Chapter 1: Mapping Sustainability: Logic and Framework.
+
+\[T\] Chapter 2: The Nature of Complex Societies.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Sustainability as a "Knowledge Domain"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[A\] Chapter 3: Sustainable Development.
+
+\[CO\] Christensen, Paul. Chapter 6: Driving Forces, Increasing Returns and Ecological Sustainability.
+
+\[ST\] Simpson, R. David. Chapter 25: Economic Analysis and Ecosystems: Some Concepts and Issues.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. "Cyber Content: Leveraging Knowledge and Networking." Chapter 4 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690. \[Preview with [Google Books](http://books.google.com/books?id=N7iNQSj-X84C&pg=PA71=onepage)\]
+
+### Related
+
+Holling, C.S. "Sustainability: The Cross-Scale Dimension." Chapter 4 in _Defining and Measuring Sustainability: The Biogeophysical Foundations_. Edited by Mohan Munasinghe and Walter Shearer. World Bank, 1995. ISBN: 9780821331347.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. "Lateral Pressure Theory." Chapter 2 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with [Google Books](http://books.google.com/books?id=d54TsD-nx1IC&pg=PA29=onepage)\]
+
+### Essential
+
+\[B\] Sachs, Ignacy. Chapter 2: Social Sustainability and Whole Development: Exploring the Dimensions of Sustainable Development.
+
+\[T\] Chapter 3: The Study of Collapse.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cyberspace & Sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. "Cyberspace and Sustainability: Convergence on the Global Agenda." Chapter 9 in _Cyberpolitics in International Relations_. MIT Press, 2012. ISBN: 9780262517690.
+
+Drucker, Peter F. "From Capitalism to Knowledge Society." Chapter 2 in _The Knowledge Economy_. Edited by Dale Neef. Butterworth-Heinemann, 1997. ISBN: 9780750699365.
+
+Landes, David S. "Homo Faber, Homo Sapiens: Knowledge, Technology, Growth, and Development." Chapter 5 in _The Knowledge Economy_. Edited by Dale Neef. Butterworth-Heinemann, 1997. ISBN: 9780750699365.
+
+Ospina, Angelina Valeria, and Richard Heeks. "[Unveiling the Links between ICTs & Climate Change in Developing Countries: A Scoping Study](http://www.comminit.com/africa/content/unveiling-links-between-icts-climate-change-developing-countries-scoping-study)." Center for Development Informatics, Institute for Development Policy and Management, SED, 2010, pp. 1–16.
+
+### Related
+
+\[A\] Chapter 9: Complex Systems.
+
+\[B\] Choucri, Nazli. Chapter 8: The Political Logic of Sustainability.
+
+### Essential
+
+\[CH\] Choucri, Nazli. Chapter 2: Global Knowledge e-Networking: Identifying e-Barriers and Introducing GSSD.
+
+\[T\] Chapter 4: Understanding Collapse: The Marginal Productivity of Sociopolitical Change.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II Actors, Processes & Institutions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Critical Drivers-Social Mechanisms & Cognitive Factors
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[E\] Chapter 11: Governments Can Kill Growth.
+
+\[E\] Chapter 12: Corruption and Growth.
+
+\[P\] Engleman, Robert, Richard P. Cincotta, et al. Chapter 2: The Future is Not What it Used to Be: World Population Trends.
+
+### Related
+
+\[P\] Runci, Paul J., and Chester L. Cooper. Chapter 3: Reflections on an Aging Global Population.
+
+Barzel, Yoram. "The Property Rights Model." Chapter 1 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with [Google Books](http://books.google.com/books?id=UIfxgF4qqAwC&pg=PA3=onepage)\]
+
+———. "The Old Firm and the New Organization." Chapter 5 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with [Google Books](http://books.google.com/books?id=UIfxgF4qqAwC&pg=PA65=onepage)\]
+
+Choucri, Nazli. "Population and the Global Environment." In _Energy and the Environment in the 21st Century_. Edited by Jefferson W. Tester. MIT Press, 1991. ISBN: 9780262200783.
+
+### Essential
+
+\[TE\] Chapter 1: Sustainable Energy: The Engine of Sustainable Development.
+
+\[TE\] Chapter 2: Estimation and Evaluation of Energy Resources.
+
+\[TE\] Chapter 6: Energy Systems and Sustainability Metrics.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Performance-Production & Consumption
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[B\] Gowdy, John. Chapter 9: Economic Concepts of Sustainability: Relocating Economic Activity Within Society and Environment.
+
+\[C\] Choucri, Nazli, and Robert C. North. Chapter 3: Growth, Development, and Environmental Sustainability: Profile and Paradox.
+
+\[ST\] Coase, Ronald. Chapter 2: The Problem of Social Cost.
+
+### Related
+
+\[A\] Chapter 6: Applications to Practice: Sector Initiatives.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. "Exploring Complexity: System Dynamics Analysis." Chapter 5 in _Environmental Impacts of Globalization and Trade: A Systems Study_. MIT Press, 2002. ISBN: 9780262122450. \[Preview with [Google Books](http://books.google.com/books?id=d54TsD-nx1IC&pg=PA127=onepage)\]
+
+### Essential
+
+\[C\] Rothenberg, Jerome R. Chapter 9: Economic Perspectives on Time Comparisons: An Evaluation of Time Discounting.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Technology, Firms Markets-Corporate Perspectives
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[C\] Choucri, Nazli. Chapter 6: Multinational Corporations and the Global Environment.
+
+\[ST\] Reinhardt, Forest L., Robert N. Stavins, et al. Chapter 22: Corporate Social Responsibility through an Economic Lens.
+
+\[ST\] Portney, Paul R. Chapter 23: The (Not So) New Corporate Social Responsibility: An Empirical Perspective.
+
+### Related
+
+\[CH\] Lim, Shung Yar. Chapter 10: The Value of Knowledge for Extended Enterprises.
+
+\[L\] Choucri, Nazli. Chapter 12: Corporate Strategies toward Sustainability.
+
+### Essential
+
+\[ST\] Arrow, Kenneth. J., Maureen L. Cropper, et al. Chapter 11: Is There a Role for Benefit-Cost Analysis in Environment, Health and Safety Regulation?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Change & Sustainable Development
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[S\] Tietenberg, Tom H. Chapter 15: Economic Instruments for Environmental Regulation.
+
+\[ST\] Fullerton, Don, and Robert N. Stavins. Chapter 1: How Economists See the Environment.
+
+\[ST\] Keohane, Nathaniel O., Richard L. Revesz, et al. Chapter 32: The Choice of Regulatory Instruments in Environmental Policy.
+
+### Related
+
+\[S\] Dasgupta, Susmita, Benoit Laplante, et al. Chapter 20: Confronting the Environmental Kuznets Curve.
+
+\[ST\] Palmer, Karen, Wallace E. Oates, et al. Chapter 6: Tightening Environmental Standards: The Benefit-Cost or the No-Cost Paradigm?
+
+### Essential
+
+\[CH\] Choucri, Nazli. Chapter 20: Conclusion: Mapping Sustainability, Knowledge e-Networking, and the Value Chain, Synthesis, Insights, and Evidence.
+
+Carraro, Carlo. "Climate Change Policy: Models, Controversies and Strategies." Chapter 1 in _The International Yearbook of Environmental and Resource Economics 2002 / 2003 A Survey of Current Issues (New Horizons in Environmental Economics)_. Edited by Tom Tietenberg and Henk Folmer. Edward Elgar Publications, 2003. ISBN: 9781843762133.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+From Sustainability "Problems" to "Solution" Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[A\] Chapter 13: Government Structure and Industrial Ecology Policy Formulation.
+
+\[C\] Rothenberg, Jerome. Chapter 11: Economic Perspectives on Time Comparisons: Alternative Approaches to Time Comparisons.
+
+Pearce, David. "Sustainable Development and Developing Country Economies." Chapter 3 in _Sustainable Environmental Economics and Management: Principles and Practice_. Edited by R. Kerry Turner. Belhaven Press, 1993. ISBN: 9780471947813.
+
+### Related
+
+\[P\] Conca, Ken. Chapter 4: Global Water Prospects.
+
+\[P\] Cousins, Ken. Chapter 12: Twenty-Nine Days: Responding to a Finite World.
+
+### Essential
+
+\[T\] Chapter 5: Evaluation: Complexity and Marginal Returns in Collapsing Societies.
+
+\[T\] Chapter 6: Summary and Implications.
+
+See the [Global System for Sustainable Development](http://gssd.mit.edu/) site for specific 'matching' of 'problems' and 'solutions' by sector, issue, unit, level, context.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III Strategic Issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+New International Institutional Contexts
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[C\] Haas, Peter M., with Jan Sundgren. Chapter 12: Evolving International Environmental Law: Changing Practices of National Sovereignty.
+
+Metrick, Andrew, and Martin L. Weitzman. "[Conflicts and Choices in Biodiversity Preservation](http://www.jstor.org/stable/2647030)." _Journal of Economic Perspectives_ 12, no. 3 (1998): 21–34.
+
+Ostrom, Elinor. "A Framework for Analysis of Self-Organizing and Self-Governing CPRs." Chapter 6 in _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press, 2015. ISBN: 9781107569782.
+
+### Related
+
+\[L\] Sands, Philippe. Chapter 5: International Law in the Field of Sustainable Development: Emerging Legal Principles.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621885) Levy, David L., and Peter J. Newell. "Introduction: The Business of Global Environmental Governance." Chapter 1 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621885) Levy, David L. "Business and the Evolution of the Climate Regime: The Dynamics of Corporate Strategies." Chapter 4 in _The Business of Global Environmental Governance_. Edited by David L. Levy and Peter J. Newell. MIT Press, 2004. ISBN: 9780262621885.
+
+### Essential
+
+\[O\] Chapter 1: The Role of Infrastructure in Development.
+
+\[O\] Chapter 3: Individuals, Incentives, and Transaction Costs.
+
+\[O\] Chapter 5: Evaluating Institutional Performance.
+
+\[O\] Chapter 6: Analyzing Institutional Arrangements.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+International Responses to Sustainability Dilemmas
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[B\] Paehlke, Robert. Chapter 13: Towards Defining, Measuring and Achieving Sustainability: Tools and Strategies for Environmental Valuation.
+
+\[CH\] Wickboldt, Anne-Katrin. Chapter 14: Growing Clean?: Property Rights, Economic Growth, and the Environment.
+
+Røpke, Inge. "[Trade, Development and Sustainability—A Critical Assessment of the 'Free Trade Dogma](https://doi.org/10.1016/0921-8009(94)90013-2)'." _Ecological Economics_ 9, no. 1 (1994): 13–22.
+
+### Related
+
+\[ST\] Kelman, Steven. Chapter 14: Cost-Benefit Analysis: An Ethical Critique.
+
+Goldman, Patti A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles." (PDF - 1.4MB)](http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1902&context=wlulr) _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98.
+
+### Essential
+
+\[ST\] Frankel, Jeffrey A. Chapter 31: The Environment and Globalization.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Global Accord: Next Round
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[A\] Chapter 12: Legal Issues.
+
+\[AS\] Chapter 3: Economic Development and Prosperity: Current Theory and Debate.
+
+\[AS\] Chapter 10: Regional and International Regimes to Protect Health, Safety, and the Environment.
+
+\[AS\] Chapter 12: Financing Development, p. 629.
+
+### Related
+
+\[C\] Brewer, Garry D. Chapter 8: Environmental Challenges and Managerial Responses.
+
+Sell, Susan K. "[Revenge of the 'Nerds': Collective Action Against Intellectual Property Maximalism in the Global Information Age](https://doi.org/10.1111/misr.12021)." _International Studies Review_ 15, no. 1 (2013): 67–85.
+
+### Essential
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262042147) Dolšak, Nives, and Elinor Ostrom, eds. "The Challenges of the Commons." Chapter 1 in _The Commons in the New Millennium: Challenges and Adaptations_. MIT Press, 2003. ISBN: 9780262042147. \[Preview with [Google Books](http://books.google.com/books?id=UUdYIUTqpVsC&pg=PA3=onepage)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Transformation & Change: Alternative Futures
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required
+
+\[L\] Sand, Peter H. Chapter 11: Trusts for the Earth: New International Financial Mechanisms for Sustainable Development.
+
+\[ST\] Porter, Michael E., and Claas van der Linde. Chapter 5: Toward a New Conception of the Environment-Competitiveness Relationship.
+
+### Related
+
+\[A\] Chapter 16: Is the Private Firm Compatible with a Sustainable World?
+
+\[P\] Chapter 5: Cohen, Marc J. "Food Policy: Underfed or Overfed?"
+
+### Essential
+
+\[C\] Weiss, Edith Brown. Chapter 10: Intergenerational Equity: Toward an International Legal Framework.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
