@@ -440,7 +440,7 @@ Røpke, Inge. "[Trade, Development and Sustainability—A Critical Assessment of
 
 \[ST\] Kelman, Steven. Chapter 14: Cost-Benefit Analysis: An Ethical Critique.
 
-Goldman, Patti A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles." (PDF - 1.4MB)](http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1902&context=wlulr) _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98.
+Goldman, Patti A. ["Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles." (PDF - 1.4MB)](http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1902&context=wlulr) _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98.
 
 ### Essential
 

@@ -62,9 +62,9 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Critical Drivers-Social Mechanisms & Cognitive Factors (PDF)]({{< baseurl >}}/resources/mit17_181f16_week5)
+[Critical Drivers-Social Mechanisms & Cognitive Factors (PDF)]({{< baseurl >}}/resources/mit17_181f16_week5)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Global System for Sustainable Development (PDF - 2.1MB)]({{< baseurl >}}/resources/mit17_181f16_week5gssd)
+[Global System for Sustainable Development (PDF - 2.1MB)]({{< baseurl >}}/resources/mit17_181f16_week5gssd)
 
 
 {{< tdclose >}}
@@ -75,7 +75,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Economic Performance-Production & Consumption (PDF - 1.5MB)]({{< baseurl >}}/resources/mit17_181f16_week6)
+[Economic Performance-Production & Consumption (PDF - 1.5MB)]({{< baseurl >}}/resources/mit17_181f16_week6)
 {{< tdclose >}}
 
 {{< trclose >}}
